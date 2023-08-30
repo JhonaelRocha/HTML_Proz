@@ -1,0 +1,32 @@
+*{
+    font-family: sans-serif;
+}
+p{
+    text-indent: 20px; text-align: justify;
+}
+img{
+    display: flex; margin: auto; max-width: 95%; max-height: 350px;
+}
+#bandeira{
+    display: flex; margin: auto; max-width: 95%; max-height: 200px;
+}
+li{
+    text-align: center; list-style: none;
+}
+#titulo{
+    background-color: rgb(148, 148, 148);
+    text-align: center; list-style: none; font-size: 50px;
+    border: 0 solid white; border-radius: 20px;
+}
+.az{
+    color:blue;
+}
+.am{
+    color:yellow;
+}
+.ve{
+    color:red;
+}
+.wh{
+    color: white;
+}
